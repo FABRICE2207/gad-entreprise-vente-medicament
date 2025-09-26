@@ -33,9 +33,9 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <h1 className="text-4xl md:text-6xl font-bold text-gray-900 leading-tight">
-                Médecine
+                Vente de médicament
                 <span className="text-green-600 block">Traditionnelle</span>
-                Naturelle
+                chez Dame Gnahoré
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
                 Découvrez nos remèdes traditionnels authentiques, 

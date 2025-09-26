@@ -67,7 +67,7 @@ export function Footer() {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 GAD Entreprise. Tous droits réservés.
+            © 2025 GAD Entreprise. Tous droits réservés.
           </p>
         </div>
       </div>
